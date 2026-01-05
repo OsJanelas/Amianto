@@ -1,0 +1,9 @@
+start sinewaves.exe
+start mlt.exe
+start rgb.exe
+start cubes.exe
+start mythlasathome.exe
+start darkr.exe
+start white.exe
+start elipse.exe
+start MBR.exe
